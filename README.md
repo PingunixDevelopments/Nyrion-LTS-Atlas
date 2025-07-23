@@ -8,4 +8,9 @@ This LTS branch exists to:
 
 - Keep getting updates and new features
 
+  **MINIMUM REQUIREMENTS**
+  - Windows 7 or higher
+  - Any Linux Distro
+  - MacOS is not officialy supported but might work
+
 Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.<img width="1024" height="1024" alt="ChatGPT Image Jul 23, 2025, 07_39_10 PM" src="https://github.com/user-attachments/assets/e391040c-8d1d-46d2-9364-6b219052c940" />
