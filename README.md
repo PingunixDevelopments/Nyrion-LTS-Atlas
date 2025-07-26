@@ -1,3 +1,5 @@
+LTS-Nebula is going to be replaced by LTS Atlas (https://www.reddit.com/r/NyrionNEWS/comments/1m98mpf/lion_getting_replaced_by_ltacore/)
+
 **What is Nyrion LTS Nebula?**
 
 Nyrion LTS Nebula is the Long-Term Support (LTS) version of the Nyrion command-line shell, built on the stable 1.3.1 release. It serves as a reliable foundation while newer versions of Nyrion continue to evolve.
