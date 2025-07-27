@@ -16,4 +16,6 @@ This LTS branch exists to:
   - MacOS is not officialy supported but might work
   - Tkinter (For .py)
 
-Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.<img width="1024" height="1024" alt="ChatGPT Image Jul 23, 2025, 07_39_10 PM" src="https://github.com/user-attachments/assets/e391040c-8d1d-46d2-9364-6b219052c940" />
+Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
+<img width="500" height="500" alt="LTSatlas logo" src="https://github.com/user-attachments/assets/2a00cdef-4224-46fc-8875-8b53cccc024b" />
+<img width="500" height="500" alt="LTAcorefulllogo-removebg-preview" src="https://github.com/user-attachments/assets/9eead9d5-864f-4d8f-a632-9a0f028a987b" />
