@@ -1,4 +1,3 @@
-***!NO LONGER UPDATED!***
 
 **What is Nyrion LTS Atlas?**
 
