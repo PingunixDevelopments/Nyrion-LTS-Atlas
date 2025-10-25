@@ -17,6 +17,5 @@ This LTS branch exists to:
 
 Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
 
-<img width="500" height="500" alt="LTSatlas logo" src="https://github.com/user-attachments/assets/2a00cdef-4224-46fc-8875-8b53cccc024b" /> <img width="500" height="500" alt="LTAcorefulllogo-removebg-preview" src="https://github.com/user-attachments/assets/9eead9d5-864f-4d8f-a632-9a0f028a987b" />
-
+<img width="500" height="500" alt="LTSatlas logo" src="https://github.com/user-attachments/assets/2a00cdef-4224-46fc-8875-8b53cccc024b" /> <img width="1024" height="1024" alt="ChatGPT Image Oct 15, 2025, 06_48_25 PM" src="https://github.com/user-attachments/assets/eb8f52dc-446c-4819-9b40-7aa3ef2308f7" />
 
