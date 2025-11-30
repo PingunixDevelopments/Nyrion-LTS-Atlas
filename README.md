@@ -1,7 +1,7 @@
 
 **What is Nyrion LTS Atlas?**
 
-Nyrion LTS Atlas is the Long-Term Support (LTS) version of the Nyrion command-line shell, built on the stable 1.1.3 release. It serves as a reliable foundation while newer versions of Nyrion continue to evolve. Now that Nyrion 2.0 Released, This is the best of Nyrions CLI (1.0 to 1.3.1) It contains all the the good commands from the early Nyrion versions. And I also migrated it to QopWarren. Which makes the old commands even easier and more stable then ever. 
+Nyrion LTS Atlas is the Long-Term Support (LTS) version of the Nyrion command-line shell, built on the stable 1.1.3 release. It serves as a reliable foundation while newer versions of Nyrion continue to evolve. Now that Nyrion 3.0 Released, This is the best of Nyrions CLI (1.0 to 1.3.1) It contains all the the good commands from the early Nyrion versions. And I also migrated it to QopWarren. Which makes the old commands even easier and more stable then ever. 
 
 This LTS branch exists to:
 
