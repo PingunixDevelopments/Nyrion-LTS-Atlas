@@ -10,7 +10,7 @@ This LTS branch exists to:
 - Keep getting updates and new features
 
   **MINIMUM REQUIREMENTS**
-  - Windows 7 or higher
+  - Windows 10 or Higher with .EXE file, Windows 7 or Higher with .py!
   - Any Linux Distro
   - MacOS is not officialy supported but might work
   - Tkinter (For .py)
