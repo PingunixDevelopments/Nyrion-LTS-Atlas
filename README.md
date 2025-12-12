@@ -17,6 +17,7 @@ This LTS branch exists to:
 
 Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
 
-<img width="500" height="500" alt="LTSatlas logo" src="https://github.com/user-attachments/assets/2a00cdef-4224-46fc-8875-8b53cccc024b" /> <img width="794" height="1123" alt="Qopwarren" src="https://github.com/user-attachments/assets/27e99131-537f-4ab2-b77c-cde17f8efc80" />
+ <img width="1024" height="1024" alt="ChatGPT Image Dec 12, 2025, 05_32_31 PM" src="https://github.com/user-attachments/assets/558952a6-c938-4b92-9ade-b894545714b9" />
+<img width="794" height="1123" alt="Qopwarren" src="https://github.com/user-attachments/assets/27e99131-537f-4ab2-b77c-cde17f8efc80" />
 
 
