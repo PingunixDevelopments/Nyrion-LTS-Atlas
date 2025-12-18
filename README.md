@@ -12,7 +12,7 @@ This LTS branch exists to:
   **MINIMUM REQUIREMENTS**
   - Windows 10 or Higher with .EXE file, Windows 7 or Higher with .py!
   - Any Linux Distro
-  - MacOS 11 (Big Sur) or Higher
+  - MacOS 10.10 (Yosemite) or Higher
   - Tkinter (For .py)
 
 Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
