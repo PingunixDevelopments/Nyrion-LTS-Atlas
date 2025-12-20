@@ -10,10 +10,12 @@ This LTS branch exists to:
 - Keep getting updates and new features
 
   **MINIMUM REQUIREMENTS**
-  - Windows 10 or Higher with .EXE file, Windows 7 or Higher with .py!
-  - Any Linux Distro
-  - MacOS 10.10 (Yosemite) or Higher
-  - Tkinter (For .py)
+  - Windows 7 or higher
+  - .Net 4.7.2
+
+**Using Linux or macOS?**
+Use the official Python macOS/Linux release.
+Download: https://github.com/PingunixDevelopments/Atlas-Experimental-Atlas-macOS
 
 Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
 
