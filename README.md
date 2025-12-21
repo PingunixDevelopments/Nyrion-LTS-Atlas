@@ -10,8 +10,8 @@ This LTS branch exists to:
 - Keep getting updates and new features
 
   **MINIMUM REQUIREMENTS**
-  - Windows 7 or higher
-  - .Net 4.7.2
+  - Windows XP or higher
+  - .Net 4.0
 
 **Using Linux or macOS?**
 Use the official Python macOS/Linux release.
